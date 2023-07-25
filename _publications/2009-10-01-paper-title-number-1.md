@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "图书情报学专业硕士的数据与智能课程调查与分析———以北美地区为例"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2023-4-01
+venue: '《情报理论与实践》'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: '李立睿,张博睿.图书情报学专业硕士的数据与智能课程调查与分析———以北美地区为例[J].情报理论与实践,2023,46(4):82-89.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+摘 要: [目的/ 意义] 对国外地区图书情报学专业硕士的数据与智能课程建设现状进行系统调研, 为提升我国图书情报学专业的人才培养质量提供参考。 [方法/ 过程] 采用文献调研、 网络调查和案例分析的方法, 对北美地区 31 所iSchools 院校进行系统而深入的调查。 [结果/ 结论] 这些院校的图书情报学专业硕士课程主要包括基础数智思维与技能、高阶数智实践能力和数智信念与伦理 3 个方面, 且表现出课程种类丰富、 内容设计多样、 结构差异明显的特点。 建议其他院校可以从优化数智类课群结构、 拓展项目式教学模式和强化数智类伦理教育等方面提升数据与智能课程教育质量
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
