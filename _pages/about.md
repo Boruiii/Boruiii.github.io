@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+
 I was born and raised in Tianjin. I obtained BS of Information Management and Information System in [西南大学计算机与信息科学学院(School of Computer and Information Science,The Southwest University)](http://cis.swu.edu.cn/) in 2021,advised by [Prof. Li](http://jyxb.swu.edu.cn/s/jyxb/jjfjs/20220408/4746449.html). Then, I passed the graduate examination in 2022. Now, I'm a first year graduate student from [中国科学院文献情报中心(National Science Library)](http://www.las.cas.cn/). I’m very fortunate to be advised by [Prof. Wen](https://people.ucas.ac.cn/~0058187) .In the future, maybe my research interest includes information analysis, machine learning.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+#I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), #Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking #University.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
