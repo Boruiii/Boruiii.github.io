@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.S. in Information Management & Information System, SouthWest University, 2017-2021
+* M.S. in Information Science, National Science Library, 2022-
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
