@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my academic personal websites!"
+title: "Welcome to academic personal websites!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
