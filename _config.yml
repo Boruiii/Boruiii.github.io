@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Berry/Pages"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -85,7 +85,7 @@ author:
   bio              : "水静而流深 行稳则致远"
   location         : "天津/重庆/北京/成都"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  wechat           : "iwantogkdwxqbzx"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "berry_borui@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
