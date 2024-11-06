@@ -12,21 +12,15 @@ redirect_from:
 Education
 ======
 * B.S. in Information Management & Information System, SouthWest University, 2017-2021
-* M.S. in Information Science, National Science Library, 2022-
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Information Science, University of Chinese Academy of Sciences/ National Science Library, 2022-
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* 2023.03-2023.12: Research Assistant
+  * 工信部人才交流中心https://www.miitec.cn/
+  * Duties included:人才发展处实习生
   * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+ 
 Skills
 ======
 * Skill 1
