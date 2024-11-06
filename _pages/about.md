@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to academic personal websites!"
+title: "Welcome to berry academic websites!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I was born and raised in Tianjin. I obtained BS of Information Management and Information System in [西南大学计算机与信息科学学院(School of Computer and Information Science,The Southwest University)](http://cis.swu.edu.cn/) in 2021,advised by [Prof. Li](http://jyxb.swu.edu.cn/s/jyxb/jjfjs/20220408/4746449.html). Then, I passed the graduate examination in 2022. Now, I'm a first year graduate student from [中国科学院文献情报中心(National Science Library)](http://www.las.cas.cn/). I’m very fortunate to be advised by [Prof. Wen](https://people.ucas.ac.cn/~0058187) .In the future, maybe my research interest includes information analysis, machine learning.
+I was born and raised in Tianjin. I obtained BS of Information Management and Information System in [西南大学计算机与信息科学学院(School of Computer and Information Science,The Southwest University)](http://cis.swu.edu.cn/) in 2021,advised by [Prof. Li](http://jyxb.swu.edu.cn/s/jyxb/jjfjs/20220408/4746449.html). Then, I passed the graduate examination in 2022. Now, I'm a first year graduate student from [中国科学院文献情报中心(National Science Library)](http://www.las.cas.cn/). I’m very fortunate to be advised by [Prof. Wen](https://people.ucas.ac.cn/~0058187) .In the future, maybe my research interest includes scientific dataset recommendation and sharing.
 
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
