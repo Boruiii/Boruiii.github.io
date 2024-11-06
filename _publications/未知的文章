@@ -1,0 +1,15 @@
+---
+title: "面向数据共享的科学数据个性化推荐研究综述"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: '摘  要：【目的】总结国内外科学数据个性化推荐研究现状，为促进科学数据共享提供理论基础。【文献范围】以“数据推荐”、“数据集推荐”、“data recommend”、“dataset recommend”在CNKI、WOS、Google Scholar中检索，再结合主题筛选和追溯法，筛选出代表文献74篇。【方法】基于文献调研与归纳总结，从研究框架、结果评价、未来展望三方面对科学数据个性化推荐研究进行归纳梳理，总结现有评价资源，讨论未来发展趋势。【结果】科学数据个性化推荐是促进数据共享的关键，可分为基于内容、基于协同过滤、基于图模型与基于混合四种方法类型，但缺乏对科学数据多源异构信息的综合利用以及用户隐私保密的相关研究，且在可解释性研究以及推荐结果的评测方面存在明显不足。【局限】仅评述科学数据推荐的主流研究，未对关联数据推荐这一小众领域深入探讨。【结论】针对现有研究不足，结合当前数据共享与推荐系统整体发展态势，提出未来展望。'
+date: 2024-11-01
+venue: '《数据分析与知识发现》外审'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: ''
+---
+This paper is about the number 3. The number 4 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
