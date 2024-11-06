@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "信息检索"
 collection: teaching
-type: "Workshop"
+type: "bilibili开放课程"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2021-01-01
 location: "City, Country"
 ---
 
