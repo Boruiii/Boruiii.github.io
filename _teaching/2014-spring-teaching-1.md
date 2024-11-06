@@ -2,7 +2,7 @@
 title: "信息管理学基础"
 collection: teaching
 type: "bilibili开放课程"
-permalink: /teaching/2014-spring-teaching-1
+permalink: [/teaching/2014-spring-teaching-1](https://space.bilibili.com/29765929?spm_id_from=333.1007.0.0)
 venue: "University 1, Department"
 date: 2021-01-01
 location: "City, Country"
