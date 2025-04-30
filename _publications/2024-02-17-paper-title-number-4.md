@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "[1]李立睿,张博睿.伊利诺伊大学厄巴纳-香槟分校信息资源管理教育研究[J].图书馆学研究,2023,(09):10-17.DOI:10.15941/j.cnki.issn1001-0424.2023.09.011."
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
