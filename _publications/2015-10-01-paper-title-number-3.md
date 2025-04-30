@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "[1]李立睿,张嘉程,张博睿.科研智能化视域下融合智能机器人的知识服务研究[J].图书与情报,2023,(02):61-68."
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
