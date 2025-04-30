@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "[1]李立睿,张博睿.图书情报学专业硕士的数据与智能课程调查与分析——以北美地区为例[J].情报理论与实践,2023,46(04):82-89.DOI:10.16353/j.cnki.1000-7490.2023.04.011."
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
