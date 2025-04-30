@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2025-2029,南京大学数据管理创新研究中心，情报学博士（待录取）
+* 2022-2025,中国科学院文献情报中心，情报学硕士（在读）
+* 2017-2021,西南大学计算机与信息科学学院，信息管理与信息系统，管理学学士
 
 Work experience
 ======
